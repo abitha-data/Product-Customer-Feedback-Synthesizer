@@ -146,3 +146,8 @@ Uses CSV-based offline dataset (safe for evaluation)
        ├── README.md           # Project details
        └── .gitignore          # Ignore temp files
 
+### Screenshots
+
+<img width="1920" height="1020" alt="Product Customer Feedback Synthesizer - Google Chrome 2_4_2026 6_10_40 PM" src="https://github.com/user-attachments/assets/892228e3-7859-4dff-b53a-daedd71449cd" />
+
+<img width="1920" height="1020" alt="Product Customer Feedback Synthesizer - Google Chrome 2_4_2026 6_10_51 PM" src="https://github.com/user-attachments/assets/9f667785-afd0-4fb5-889f-59629db13a28" />
