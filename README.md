@@ -55,18 +55,6 @@ Buyer recommendation
 
 Displays review details in tabular format
 
-### 🧾 Dataset
-
-
-| Column Name    | Description          |
-| -------------- | -------------------- |
-| `product_name` | Name of the product  |
-| `product_url`  | Product link         |
-| `brand`        | Brand name           |
-| `review`       | Customer review text |
-| `review_date`  | Date of the review   |
-
-
 
 ### 🧠 Tech Stack Used
 
@@ -149,12 +137,12 @@ Uses CSV-based offline dataset (safe for evaluation)
 
 ### 📁 Project Folder Structure
 
-       
-product-feedback-synthesizer/
-│
-├── app.py              # Streamlit main app
-├── data/
-│   └── reviews.csv     # Review dataset
-├── requirements.txt    # Dependencies
-├── README.md           # Project details
-└── .gitignore          # Ignore temp files
+       product-feedback-synthesizer/
+       │
+       ├── app.py              # Streamlit main app
+       ├── data/
+       │   └── reviews.csv     # Review dataset
+       ├── requirements.txt    # Dependencies
+       ├── README.md           # Project details
+       └── .gitignore          # Ignore temp files
+
